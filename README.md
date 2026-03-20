@@ -6,7 +6,7 @@
   <br>
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   ![GitHub Sponsors](https://img.shields.io/github/sponsors/Typhon0)
-  ![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=Typhon0.Typhon0&left_color=green&right_color=red)
+  ![](https://komarev.com/ghpvc/?username=Typhon0)
   <br>
   ![GitHub Followers](https://img.shields.io/github/followers/Typhon0?style=social)
   ![GitHub User's Stars](https://img.shields.io/github/stars/Typhon0?affiliations=OWNER%2CCOLLABORATOR&style=social)  
